@@ -1,0 +1,6 @@
+name      fin_t     ta_t      wta_t     
+A         4         4         1         
+B         7         6         2         
+C         14        12        2.4       
+D         9         6         3         
+E         18        14        3.5       
